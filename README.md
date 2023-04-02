@@ -1,4 +1,4 @@
-# Script-Scraper
+# URL Hunter
 Check out this JavaScript code that extracts URLs from a web page and linked scripts! Perfect for web scraping and penetration testing
 
 ## How to use:
