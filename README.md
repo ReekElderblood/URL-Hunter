@@ -10,3 +10,6 @@ javascript:(function(){var scripts=document.getElementsByTagName("script"),regex
   ````
 4. Wait for the script to finish running. The extracted URLs will be displayed in the console.
 
+> Thanks for visiting my repository! If you find my work useful, please consider buying me a coffee to support my future projects.
+
+<a href="https://www.buymeacoffee.com/SecuritySphinx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
